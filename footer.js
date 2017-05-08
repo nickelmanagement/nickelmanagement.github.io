@@ -51,6 +51,7 @@ document.write('\
 									<li><a href="../services.html">Our Services</a></li>\
 									<li><a href="../rentals.html">List Your Rental</a></li>\
 									<li><a href="../contact.html">Contact Us</a></li>\
+									<li><a href="../faq.html">FAQ</a></li>\
 								</ul>\
 							</div>\
 						</div>\
